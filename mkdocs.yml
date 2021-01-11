@@ -1,7 +1,7 @@
 site_name: Degsypedia
 nav:
     - Home: index.md
-    - The Basics:
+    - The Basics *:
         - Start Here: the_basics/start_here.md
         - The Interface: the_basics/the_interface.md
         - Backpack: the_basics/backpack.md
@@ -14,7 +14,7 @@ nav:
         - Intel: the_basics/intel.md
         - Missions: the_basics/missions.md
         - Research: the_basics/research.md
-        - Settlement Buffs: the_basics/settlement_buffs.md
+        - Settlement Buffs *: the_basics/settlement_buffs.md
         - Spending Money: the_basics/spending_money.md
         - Squad Stamina: the_basics/squad_stamina.md
         - Stamina: the_basics/stamina.md
@@ -22,8 +22,8 @@ nav:
     - Heros:
         - Heros: heros/heros.md
         - Hero Training Area: heros/hero_training_area.md
-    - Hospital & Healing:
-        - Hospital Overview: hospital/hospital_overview.md
+    - Hospital & Healing *:
+        - Hospital Overview *: hospital/hospital_overview.md
         - Batch Healing: hospital/batch_healing.md
     - Events:
         - Alliance Showdown: events/alliance_showdown.md
@@ -36,4 +36,6 @@ nav:
         - Survival of the Fittest (SOTF): events/survival_of_the_fittest.md
         - Trap Influencer: events/trap_influencer.md
         - Wild Racing: events/wild_racing.md
+    - Troops:
+        - Training & Upgrading: troops/training_upgrading.md
 theme: material

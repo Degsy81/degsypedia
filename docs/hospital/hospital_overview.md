@@ -1,6 +1,6 @@
 # Hospital Overview
 
-![Hospital screen](hospital_overview.jpg "Full hospital")
+![Hospital screen](hospital_overview.jpg "Hospital screen")
 
 1. Hospital capacity (*add link to Enlistment docs - what happens if your hospital is full*)
 2. Total number of troops in your hospital
