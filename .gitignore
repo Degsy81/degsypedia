@@ -1,1 +1,5 @@
+# folders to ignore
 site/
+
+# filetypes to ignore
+*.gst

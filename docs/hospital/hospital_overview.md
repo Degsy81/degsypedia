@@ -18,4 +18,4 @@
 10. Pressing Instant will use the amount of biocaps displayed to instantly heal your troops (I don't suggest using this)
 11. The amount of time it will take to heal the currently selected batch of troops
 
-> TIP: See Batch Healing for information on how to heal quickly
+> TIP: See [Batch Healing](batch_healing.md) for information on how to heal quickly
