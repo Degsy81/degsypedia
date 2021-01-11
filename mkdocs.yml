@@ -1,13 +1,38 @@
 site_name: Degsypedia
 nav:
     - Home: index.md
-    - 'The Basics': 'the_basics/the_basics.md'
-    - Alliance: the_basics/alliance.md
+    - The Basics:
+        - Start Here: the_basics/start_here.md
+        - The Interface: the_basics\the_interface.md
+        - Backpack: the_basics\backpack.md
+        - Mail: the_basics\mail.md
+        - Daily Tasks (Personal): the_basics\daily_tasks_personal.md
+        - Daily Tasks (Alliance): the_basics\daily_tasks_alliance.md
+        - Alliance: the_basics/alliance.md
+        - Explore Mission: the_basics\explore.md
+        - Gathering Resources: the_basics\gathering_resources.md
+        - Intel: the_basics\intel.md
+        - Missions: the_basics\missions.md
+        - Research: the_basics\research.md
+        - Settlement Buffs: the_basics\settlement_buffs.md
+        - Spending Money: the_basics\spending_money.md
+        - Squad Stamina: the_basics\squad_stamina.md
+        - Stamina: the_basics\stamina.md
+        - Talents: the_basics\talents.md
     - Heros: heros/heros.md
-    - 'Hospital & Healing':
-        - Hospital Overview: 'hospital/hospital_overview.md'
-        - 'Batch Healing': hospital/batch_healing.md
+    - Hospital & Healing:
+        - Hospital Overview: hospital/hospital_overview.md
+        - Batch Healing: hospital/batch_healing.md
     - Events:
-        - 'Trap Influencer': events/trap_influencer.md
+        - Alliance Showdown: events\alliance_showdown.md
+        - Alliance Throwdown: events\alliance_throwdown.md
+        - Capital Clash: events\capital_clash.md
+        - Kill Event: events\kill_event.md
+        - Plague Zone: events\plague_zone.md
+        - Reservoir League: events\reservoir_league.md
+        - Reservoir Raid: events\reservoir_raid.md
+        - Survival of the Fittest (SOTF): events\survival_of_the_fittest.md
+        - Trap Influencer: events/trap_influencer.md
+        - Wild Racing: events\wild_racing.md
     - About: about.md
 theme: material

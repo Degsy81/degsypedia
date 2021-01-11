@@ -1,1 +1,1 @@
-# Squad Satmina (used in explore)
+# Squad Stamina (used in explore)

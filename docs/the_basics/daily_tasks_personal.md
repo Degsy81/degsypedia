@@ -1,1 +1,1 @@
-# Things you should do every day to help the alliance
+# Things you should do every day to help yourself
