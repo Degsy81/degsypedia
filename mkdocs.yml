@@ -2,9 +2,10 @@ site_name: Degsypedia
 nav:
     - Home: index.md
     - 'The Basics': 'the_basics/the_basics.md'
+    - Alliance: the_basics/alliance.md
     - Heros: heros/heros.md
     - 'Hospital & Healing':
-        - 'Hospital Overview': 'hospital/hospital_overview.md'
+        - Hospital Overview: 'hospital/hospital_overview.md'
         - 'Batch Healing': hospital/batch_healing.md
     - Events:
         - 'Trap Influencer': events/trap_influencer.md

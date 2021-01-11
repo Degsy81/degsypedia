@@ -1,0 +1,1 @@
+# Squad Satmina (used in explore)

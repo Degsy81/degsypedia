@@ -1,0 +1,1 @@
+# Normal Stamina (used in Intel / PZ / Infected / Fiends)
