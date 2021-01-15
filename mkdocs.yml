@@ -19,9 +19,9 @@ nav:
         - Squad Stamina: the_basics/squad_stamina.md
         - Stamina: the_basics/stamina.md
         - Talents: the_basics/talents.md
-    - Heros:
+    - Heros *:
         - Heros *: heros/heros.md
-        - Hero Training Area: heros/hero_training_area.md
+        - Hero Training Area *: heros/hero_training_area.md
     - Hospital & Healing *:
         - Hospital Overview *: hospital/hospital_overview.md
         - Batch Healing: hospital/batch_healing.md
