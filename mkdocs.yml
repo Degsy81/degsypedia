@@ -38,4 +38,5 @@ nav:
         - Wild Racing: events/wild_racing.md
     - Troops:
         - Training & Upgrading: troops/training_upgrading.md
+    - Calendar: misc/calendar.md
 theme: material
