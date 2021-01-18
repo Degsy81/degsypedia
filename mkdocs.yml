@@ -38,6 +38,8 @@ nav:
         - Wild Racing: events/wild_racing.md
     - Troops:
         - Training & Upgrading: troops/training_upgrading.md
+    - Tools *:
+        - Resource Gathering Calculator: misc/tools_resource_calculator.md
     - Calendars *:
         - ILL *: misc/calendar_ill.md
         - TNE *: misc/calendar_tne.md
