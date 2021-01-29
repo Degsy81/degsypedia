@@ -44,6 +44,6 @@ nav:
         - Construction Calculator *: misc/tools_construction_calculator.md
         - Resource Gathering Calculator * : misc/tools_resource_calculator.md
     - Calendars *:
-        - ILL *: misc/calendar_ill.md
-        - TNE *: misc/calendar_tne.md
+        - TIE *: misc/calendar_tie.md
+        - TIA *: misc/calendar_tia.md
 theme: material
