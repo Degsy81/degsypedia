@@ -40,8 +40,9 @@ nav:
     - Troops:
         - Training & Upgrading: troops/training_upgrading.md
     - Tools *:
-        - Construction Calculator: misc/tools_construction_calculator.md
-        - Resource Gathering Calculator: misc/tools_resource_calculator.md
+        - Battle Simulator *: misc/tools_battle_simulator.md
+        - Construction Calculator *: misc/tools_construction_calculator.md
+        - Resource Gathering Calculator * : misc/tools_resource_calculator.md
     - Calendars *:
         - ILL *: misc/calendar_ill.md
         - TNE *: misc/calendar_tne.md
