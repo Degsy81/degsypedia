@@ -13,4 +13,4 @@ Guide:
 [Battle Simulator Guide](https://en.ultimate-guide.ovh/fights/battle-simulator)
 
 Simulator:
-[Battle Simulator](https://soscompanion.com/State-of-Survival-Building-Time-Resources-Calculator)
+[Battle Simulator](https://battle.ultimate-guide.ovh/battle)
