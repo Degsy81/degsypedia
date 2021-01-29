@@ -39,6 +39,7 @@ nav:
     - Troops:
         - Training & Upgrading: troops/training_upgrading.md
     - Tools *:
+        - Construction Calculator: misc/tools_construction_calculator.md
         - Resource Gathering Calculator: misc/tools_resource_calculator.md
     - Calendars *:
         - ILL *: misc/calendar_ill.md
