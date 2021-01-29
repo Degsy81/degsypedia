@@ -20,6 +20,7 @@ nav:
         - Stamina: the_basics/stamina.md
         - Talents: the_basics/talents.md
     - Heros *:
+        - Hero Roles *: heros/hero_roles.md
         - Hero Stats *: heros/hero_stats.md
         - Hero Training Area *: heros/hero_training_area.md
     - Hospital & Healing *:
